@@ -17,4 +17,4 @@ Mariana Sabino Ferreira
 Projeto
 -------------
 
-Nosso projeto consistirá de uma aplicação que efetue o envie dos pedidos feitos pelos garçons de uma pizzaria para a cozinha.  O garçon "montará" o pedido pela aplicação e o pizzaiolo poderá começar a preparação dos produtos.
+Nosso projeto trata-se de um mini-blog e agregador de links, similar ao famoso  [Reddit](https://www.reddit.com/). Os usuários podem adicionar publicações com ou sem links e votar nos melhores conteúdos. Também é possível adicionar comentários nas publicações, que também podem ser votados.
