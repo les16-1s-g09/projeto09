@@ -3,7 +3,7 @@ Grupo 09 - LES
 
 **FATEC Sorocaba - 2016/1**
 
-**Integrantes:**
+**Integrantes:**  
 Cristian Luís Pereira  
 Fernanda Aparecida Ferreira  
 Júlio César Fortunato Filho  
